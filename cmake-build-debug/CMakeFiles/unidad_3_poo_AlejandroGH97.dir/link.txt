@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/unidad_3_poo_AlejandroGH97.dir/main.cpp.o CMakeFiles/unidad_3_poo_AlejandroGH97.dir/Carga.cpp.o CMakeFiles/unidad_3_poo_AlejandroGH97.dir/Simulacion.cpp.o CMakeFiles/unidad_3_poo_AlejandroGH97.dir/Carga-test.cpp.o CMakeFiles/unidad_3_poo_AlejandroGH97.dir/Simulacion-test.cpp.o  -o unidad_3_poo_AlejandroGH97 
